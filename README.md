@@ -1,6 +1,6 @@
-# WeatherApp
+# myWeather
 
-WeatherApp is a Flutter application that provides current weather information for a given location. It utilizes the Open Weather GeoCoder API to convert a place name to coordinates and then fetches the current weather using the Open Weather Current Weather API.
+myWeather is a Flutter application that provides current weather information for a given location. It utilizes the Open Weather GeoCoder API to convert a place name to coordinates and then fetches the current weather using the Open Weather Current Weather API.
 
 ## Features
 
